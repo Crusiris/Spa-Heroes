@@ -1,6 +1,7 @@
-# Spa
+# Spa Heroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.3.
+This is a Single Page Aplication of Heroes
 
 ## Development server
 
