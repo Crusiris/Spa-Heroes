@@ -3,6 +3,14 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.3.
 This is a Single Page Aplication of Heroes
 
+## Layout One
+
+![Spa_Heroes](https://github.com/Crusiris/Spa-Heroes/blob/master/src/assets/img/SpaHeroes.PNG)
+
+## Layout Two
+
+![Spa_Heroes](https://github.com/Crusiris/Spa-Heroes/blob/master/src/assets/img/Responsivedesigh%20HeroesApp.PNG)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
