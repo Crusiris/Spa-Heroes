@@ -6,12 +6,12 @@ import { HeroeComponent } from "./components/heroe/heroe.component";
 import { SearchComponent } from "./components/search/search.component";
 
 const APP_ROUTES: Routes = [
-  { path: "home", component: HomeComponent },
+  // { path: "home", component: HeroesComponent },
   { path: "about", component: AboutComponent },
   { path: "heroes", component: HeroesComponent },
   { path: "heroe/:id", component: HeroeComponent },
   { path: "search/:termino", component: SearchComponent },
-  { path: "**", pathMatch: "full", redirectTo: "home" }
+  { path: "**", pathMatch: "full", redirectTo: "heroes" }
 ];
 
 export const APP_ROUTING = RouterModule.forRoot(APP_ROUTES);
